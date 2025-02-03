@@ -1,4 +1,4 @@
-echo enter values for m and n 
+echo enter  m and n 
 read m n 
 for a in $(seq $m $n) / 
 do
